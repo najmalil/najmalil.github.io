@@ -1,0 +1,47 @@
+* {  
+	font-family: Geneva, Verdana, sans-serif;
+	color: #402319;
+	text-align: center;
+}
+
+
+body {
+	width: 960p;
+	margin: 0 auto;
+	border: groove;
+}
+nav {
+	background-color:#F2D3AC;
+	padding: 10px;
+	margin: 10px;
+}
+
+li {
+	display: inline;
+	padding: 5px;
+}
+
+section {
+	overflow: auto;
+	height: 100%:
+}
+
+main{
+	background-color:#BF785E;
+	padding: 10px;
+	margin: 10px;
+}
+
+article {
+	background-color:#BF785E;
+	padding: 15px;
+	margin: 20px;
+	width: 400px;
+	float: left;
+}
+
+footer {
+	padding: 10px;
+	margin: 10px;
+
+}
